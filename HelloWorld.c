@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello world!");	//输出
+	printf("Hello C world!");	//输出
 	getchar();	//防止闪屏
 	return 0;	//返回
 }
